@@ -1,5 +1,5 @@
 <?php
-// Configuração do cardápio de lanches (Array Associativo)
+
 $lanches = [
     [
         "nome" => "X-Salada",
@@ -12,7 +12,7 @@ $lanches = [
         "preco" => "17,00"
     ],
     [
-        "nome" => "Bata Frita", // Mantido o termo original do HTML
+        "nome" => "Bata Frita",
         "imagem" => "images/batata.jpg",
         "preco" => "7,00"
     ],
